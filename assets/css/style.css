@@ -1,12 +1,12 @@
 :root{
     /* Standard Colors */
-	--color-1: rgba(235, 40, 62, 1);
-	--color-2: rgba(40, 40, 40, 1);
-	--color-3: rgba(73, 73, 73, 1);
-	--color-4: rgba(73, 73, 73, 1);
-	--color-5: rgba(73, 73, 73, 1);
-	--color-6: rgba(73, 73, 73, 1);
-	--color-7: rgba(73, 73, 73, 1);
+	--color-1: rgba(0, 75, 165, 1);
+	--color-2: rgba(95, 95, 105, 1);
+	--color-3: rgba(130, 130, 145, 1);
+	--color-4: rgba(130, 130, 145, 1);
+	--color-5: rgba(130, 130, 145, 1);
+	--color-6: rgba(130, 130, 145, 1);
+	--color-7: rgba(130, 130, 145, 1);
 
 	--grey-light: rgba(120, 120, 120, 1);
 	--grey: rgba(73, 73, 73, 1);
